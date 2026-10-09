@@ -39,8 +39,7 @@ When I'm not building, you'll usually find me reading docs, taking things apart 
 
 <h2 align="center">🧰 Tech Stack</h2>
 
-<div align="center">
-  <img src="assets/tech-marquee.svg" alt="Technologies I work with, scrolling: JavaScript, TypeScript, Python, PHP, Dart, React, Next.js, Tailwind CSS, Flutter, Node.js, Express, FastAPI, Laravel, PostgreSQL, MySQL, MongoDB, Redis, Git, Docker, Linux, Postman, Figma" width="100%" />
+
 </div>
 
 <br />
